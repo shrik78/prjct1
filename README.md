@@ -1,4 +1,4 @@
-# Zephyr-7B-β Chatbot
+# Zephyr-7B-β Chatbot by shrikesh
 
 ## Overview
 This project implements a chatbot using the Zephyr-7B-β language model, which is a fine-tuned version of mistralai/Mistral-7B-v0.1. The chatbot is built using the Hugging Face Transformers library and can engage in conversational interactions with users.
